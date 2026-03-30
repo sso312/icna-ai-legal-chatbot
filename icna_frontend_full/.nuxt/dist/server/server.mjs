@@ -1,1 +1,0 @@
-export { default } from "file:///C:/Users/ssosso/Desktop/ICNA0520/ICNA_0520_save_2/icna_frontend_full/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
